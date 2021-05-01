@@ -1,6 +1,6 @@
 # awesome-latex-packages
 
-[![Build Status](https://travis-ci.org/maphy-psd/awesome-LaTeX.svg?branch=master)](https://travis-ci.org/maphy-psd/awesome-LaTeX)
+[![Build Status](https://www.travis-ci.com/maphy-psd/awesome-latex-packages.svg)](https://www.travis-ci.com/maphy-psd/awesome-latex-packages)
 
 A curated list of awesome LaTeX packages
 
