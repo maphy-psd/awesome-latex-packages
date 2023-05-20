@@ -16,3 +16,4 @@ A curated list of awesome LaTeX packages
 -   [opencolor](https://www.ctan.org/pkg/opencolor) – Simple use of the Open Color colors.
 -   [abspos](https://www.ctan.org/pkg/abspos) - Absolute placement with coffins.
 -   [crumbs](https://www.ctan.org/pkg/crumbs) - Add a Navigation Path to the page header.
+-   [hvfloat](https://www.ctan.org/pkg/hvfloat) - Controlling captions, fullpage and doublepage floats.
