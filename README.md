@@ -17,3 +17,4 @@ A curated list of awesome LaTeX packages
 -   [abspos](https://www.ctan.org/pkg/abspos) - Absolute placement with coffins.
 -   [crumbs](https://www.ctan.org/pkg/crumbs) - Add a Navigation Path to the page header.
 -   [hvfloat](https://www.ctan.org/pkg/hvfloat) - Controlling captions, fullpage and doublepage floats.
+-   [ducksay](https://www.ctan.org/pkg/ducksay) - Draw ASCII art of animals saying a specified message.
